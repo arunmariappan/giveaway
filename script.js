@@ -53,7 +53,7 @@ $(document).ready(function () {
             <p class="txhash">${txhash}</p>
             <p class="block">${block}</p>
             <p class="from">${wallet_to}<br>${wallet_from}</p>
-            <div class="arrow"><img src="assets/check.svg" alt=""></div>
+            <div class="arrow"><img src="check.svg" alt=""></div>
             <p class="to">${wallet_from}<br>${wallet_to}</p>
             <p class="value">${get_amount} ${coin}<br>${send_amount} ${coin}</p>
             <p class="fee">${fee}</p>
